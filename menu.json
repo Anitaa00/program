@@ -1,0 +1,406 @@
+{
+    "menu": {
+        "bebidas_calientes": [
+        {
+          "nombre": "Café Americano",
+          "precio": 35.00, 
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//americano.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Sin leche", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1
+          }
+        },
+        {
+          "nombre": "Café Expreso",
+          "precio": 40.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//expreso.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Sin leche", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1
+          }
+          },
+        {
+          "nombre": "Cappuccino",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//capuccino.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1
+          }
+        },
+        {
+          "nombre": "Latte",
+          "precio": 50.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//latte.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 2,
+            "Leche": 1,
+            "Azúcar": 1
+          }
+        },
+        {
+          "nombre": "Mocha",
+          "precio": 40.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//mocha.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1,
+            "Chocolate": 1
+          }
+        },
+        {
+          "nombre": "Chocolate Caliente",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//chocolate.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Chocolate": 2
+          }
+        },
+        {
+          "nombre": "Matcha caliente",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//matcha.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Matcha":2
+          }
+        },
+        {
+          "nombre": "Chai Caliente",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//chai.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Chai": 2
+          }
+        },
+        {
+          "nombre": "Té Negro",
+          "precio": 20.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//tenegro.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Sin leche", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Te_negro": 2
+          }
+        },
+        {
+          "nombre": "Carajillo",
+          "precio": 55.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//carajillo.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1,
+            "Carajillo": 1
+          }
+        }
+    ],
+    "bebidas_frias": [
+        {
+          "nombre": "Iced Latte",
+          "precio": 40.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//icedlatte.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1
+          }
+          
+        },
+        {
+          "nombre": "Affogato",
+          "precio": 60.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//affogato.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1,
+            "Helado": 1
+          }
+        },
+        {
+          "nombre": "Té Frio",
+          "precio": 35.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//icedtea.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Té": 1
+          }
+        },
+        {
+          "nombre": "Frappé Mocha",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//frappe.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1,
+            "Chocolate": 2
+          }
+        },
+        {
+          "nombre": "Cold Brew",
+          "precio": 40.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//coldbrew.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Sin leche", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Café": 1,
+            "Leche": 1,
+            "Azúcar": 1
+          }
+        },
+        {
+          "nombre": "Matcha Frío",
+          "precio": 60.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//icedmatcha.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Matcha": 2
+          }
+        },
+        {
+          "nombre": "Limonada",
+          "precio": 40.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//limonada.jpg",
+          "personalizaciones": {
+            "Limon": ["Normal", "Concentrado"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar", "Con jarabe"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Limón": 1
+          }
+        },
+        {
+          "nombre": "Malteada de Chocolate",
+          "precio": 50.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//malteada.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Helado": 1
+          }
+        },
+        {
+          "nombre": "Smoothie de Frutas",
+          "precio": 55.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//smoothie.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Frutas": 1
+          }
+        },
+        {
+          "nombre": "Taro",
+          "precio": 60.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//taro.jpg",
+          "personalizaciones": {
+            "Leche": ["Normal", "Deslactosada", "Almendras"],
+            "Azúcar": ["Con Azúcar", "Sin Azúcar"],
+            "Tamaño": ["Chico", "Mediano", "Grande"]
+          },
+          "ingredientes": {
+            "Leche": 1,
+            "Azúcar": 1,
+            "Taro": 1
+          }
+        }
+    ],
+    "postres": [
+        {
+          "nombre": "Pastel de Chocolate",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//pastel.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Pastel_de_chocolate": 1 
+          }
+        },
+        {
+          "nombre": "Galletas",
+          "precio": 30.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//galletas.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Galletas": 1 
+          }
+        },
+        {
+          "nombre": "Cheesecake ",
+          "precio": 55.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//cheesecake.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Cheesecake": 1 
+          }
+        },
+        {
+          "nombre": "Brownie con Helado",
+          "precio": 50.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//brownie.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Brownie": 1, 
+            "Helado": 1
+          }
+        },
+        {
+          "nombre": "Pastel de Zanahoria",
+          "precio": 45.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//carrotcake.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Pastel_de_zanahoria": 1
+          }
+        },
+        {
+          "nombre": "Tiramisu",
+          "precio": 60.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//tiramisu.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Galletas": 1 
+          }
+        },
+        {
+          "nombre": "Rol de Canela",
+          "precio": 35.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//rol.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Roles_de_canela": 1 
+          }
+        },
+        {
+          "nombre": "Waffles",
+          "precio": 40.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//waffles.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Waffles": 1 
+          }
+        },
+        {
+          "nombre": "Helado Artesanal (Varios Sabores)",
+          "precio": 50.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//helado.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Helado_artesanal": 1 
+          }
+        },
+        {
+          "nombre": "Muffins (Varios Sabores)",
+          "precio": 35.00,
+          "imagen": "C://Users//anaal//Downloads//cafe//imagenes//muffins.jpg",
+          "personalizaciones": {},
+          "ingredientes": {
+            "Muffins": 1 
+          }
+        }
+    ]
+    }
+}
