@@ -1,0 +1,378 @@
+[
+    {
+        "id_pedido": "ORD_LDG107",
+        "items": [],
+        "total": 0
+    },
+    {
+        "id_pedido": "ORD_RCF813",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                }
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_HKD508",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Sin leche",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                }
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_XMP947",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                }
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_WYU353",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Grande"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                }
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_UPY633",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 2
+            },
+            {
+                "nombre": "Café Expreso",
+                "precio": 40.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Mediano"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            },
+            {
+                "nombre": "Cappuccino",
+                "precio": 45.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 120.0
+    },
+    {
+        "id_pedido": "ORD_KTI603",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Mediano"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_RDN217",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Mediano"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            },
+            {
+                "nombre": "Café Expreso",
+                "precio": 40.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 75.0
+    },
+    {
+        "id_pedido": "ORD_WOV065",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_WOV065",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Mediano"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_WWE549",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_LGS369",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_VUJ907",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_PTV177",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_WQN004",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Chico"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 35.0
+    },
+    {
+        "id_pedido": "ORD_DUO201",
+        "items": [
+            {
+                "nombre": "Café Americano",
+                "precio": 35.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Con Azúcar",
+                    "Tamaño": "Grande"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            },
+            {
+                "nombre": "Cappuccino",
+                "precio": 45.0,
+                "personalizaciones": {
+                    "Leche": "Normal",
+                    "Azúcar": "Sin Azúcar",
+                    "Tamaño": "Grande"
+                },
+                "ingredientes": {
+                    "Café": 1,
+                    "Leche": 1,
+                    "Azúcar": 1
+                },
+                "cantidad": 1
+            }
+        ],
+        "total": 80.0
+    }
+]
